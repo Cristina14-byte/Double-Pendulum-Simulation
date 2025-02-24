@@ -25,5 +25,4 @@ for better understanding of the system's dynamics.
 ## 🛠️ Technologies Used  
 
 - **JavaScript**  
-- **p5.js** for graphics and animation  
-
+- **p5.js** for graphics and animation
