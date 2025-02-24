@@ -26,3 +26,9 @@ for better understanding of the system's dynamics.
 
 - **JavaScript**  
 - **p5.js** for graphics and animation
+
+---
+
+## 🔧 How to Run  
+
+Access this link: https://editor.p5js.org/cristinaciors/sketches/njXYsnRgX
