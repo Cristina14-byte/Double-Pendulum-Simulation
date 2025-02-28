@@ -32,3 +32,12 @@ for better understanding of the system's dynamics.
 ## 🔧 How to Run  
 
 Access this link: https://editor.p5js.org/cristinaciors/sketches/njXYsnRgX
+
+## 📸 Preview  
+
+Here's a snapshot of the double pendulum simulation in action:  
+
+![image](https://github.com/user-attachments/assets/64541e6a-26d1-4d8c-958b-5bfe00a36100)
+
+
+
